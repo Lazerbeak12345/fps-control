@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A naive FPS throttler implementation",
   "main": "index.js",
+  "types": "types.d.js",
   "directories": {
     "test": "test"
   },
